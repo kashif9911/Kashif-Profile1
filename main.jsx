@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./src/Home";
 import Experience from "./src/Experience";
-import "./index.css";
+import "./src/index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <BrowserRouter>
